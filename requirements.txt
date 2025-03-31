@@ -1,0 +1,9 @@
+pytest
+python-json-logger
+fastparquet
+pyarrow
+bs4
+requests
+beautifulsoup4
+pandas
+unittest
